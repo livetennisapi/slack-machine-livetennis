@@ -6,7 +6,7 @@ readme = "README.md"
 license = { text = "MIT" }
 requires-python = "<4.0,>=3.9"
 authors = [
-    { name = "Live Tennis API", email = "hello@livetennisapi.com" },
+    { name = "Synapse Research Ltd", email = "hello@livetennisapi.com" },
 ]
 keywords = ["slack", "slack-machine", "tennis", "live-scores", "bot", "plugin"]
 classifiers = [
@@ -27,6 +27,7 @@ dependencies = [
 Homepage = "https://livetennisapi.com"
 Source = "https://github.com/livetennisapi/slack-machine-livetennis"
 "Free API key" = "https://livetennisapi.com/subscribe/free"
+Author = "https://synapsereality.io"
 
 [project.optional-dependencies]
 test = [
